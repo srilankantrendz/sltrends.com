@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: 
+
+sitemap:http://srilankan.top/sitemap.xml 
