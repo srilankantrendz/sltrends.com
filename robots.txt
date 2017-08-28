@@ -1,4 +1,4 @@
 User-agent: * 
 Disallow: 
 
-sitemap:http://srilankan.top/sitemap.xml 
+sitemap:http://www.sltrends.com/sitemap.xml 
